@@ -1,0 +1,7 @@
+{
+  "name": "postgres-vscode-student",
+  "engine": "postgresql",
+  "slug": "postgres",
+  "kind": "student",
+  "useCase": "student"
+}
